@@ -1,0 +1,12 @@
+ol{
+	list-style-type: upper-roman;
+}
+
+ol{
+
+	list-style-type: lower-greek;
+}
+
+ul{
+	list-style-type: block;
+}

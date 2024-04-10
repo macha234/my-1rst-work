@@ -1,0 +1,40 @@
+body{
+	background-color:yellow;
+	border: 2px solid black;
+}
+
+h1{
+	color: blueviolet;
+	text-align: center;
+}
+
+h2{
+	color: blueviolet;
+	text-align: center;
+}
+
+footer{
+	color: blueviolet;
+	text-align: center;
+}
+
+header{
+	color: blueviolet;
+	text-align: center;
+
+}
+input
+{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+label
+{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+

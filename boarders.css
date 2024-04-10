@@ -1,0 +1,90 @@
+body{
+	background: url(https://www.smartbrainskenya.com/wp-content/uploads/2020/05/download.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+h1 {
+	border-style: dotted;
+	text-align: center;
+	color: red;
+	border-color: hotpink;
+	font-family: fantasy;
+	border-width: thin;
+}
+
+h2 {
+	border-style: dashed;
+	text-align: center;
+	color: orange;
+	border-color: purple;
+	font-family: cursive;
+	border-width: medium;
+}
+
+h3 {
+	border-style: solid;
+	text-align: center;
+	color: yellow;
+	border-color: blue;
+	font-family: monospace;
+	border-width: thick;
+}
+
+h4 {
+	border-style: double;
+	text-align: center;
+	color: green;
+	border-color: red;
+	font-family: sans-serif;
+	border-width: thin;
+}
+
+h5 {
+	border-style: outset;
+	text-align: center;
+	color: blue;
+	border-color: green;
+	font-family: initial;
+	border-width: medium;
+}
+
+h6{
+	border-style: dotted dashed solid double;
+	text-align: center;
+	color: purple;
+	border-color: orange;
+	font-family: serif;
+	border-width: thick;
+
+}
+
+p{
+	border-style: inset;
+	text-align: center;
+	color: hotpink;
+	border-color: yellow;
+	font-family: verdana;
+	border-width: thin;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+h6 {
+	border-style: dotted dashed solid double;
+}

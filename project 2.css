@@ -1,0 +1,55 @@
+body{
+	background-color: lightgreen;
+}
+
+h1{
+	text-align: center;
+	color: blueviolet;
+	font-family: cursive;
+}
+
+h2{
+	text-align: center;
+	color: blueviolet;
+	font-family: cursive;
+}
+
+h4{
+	text-align: center;
+	color: blueviolet;
+	font-family: cursive;
+}
+
+p{
+	font-family: verdana;
+
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+ul{
+	list-style-type: square;
+}
+
+input
+{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+label
+{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+footer{
+	text-align: center;
+	color: blueviolet;
+	font-family: cursive;
+}
